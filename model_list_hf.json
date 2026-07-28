@@ -878,5 +878,185 @@
         "sglang": "--reasoning-parser deepseek-r1"
       }
     }
+  },
+  {
+    "model_id": "moonshotai/Kimi-K2.5",
+    "model_name": "Kimi-K2.5",
+    "model_type": "MLLM",
+    "task_type": "image-text-to-text",
+    "context": 262144,
+    "model_size": 1058589420528,
+    "storage_size": 595246118966,
+    "data_type": "float32",
+    "description": "0. Changelog - 2026.1.29: - The default system prompt might cause confusion to users and unexpected behaviours, so we remove it.",
+    "update_version": 1,
+    "deployment_settings": {
+      "engines": {
+        "vllm": "0.9.2",
+        "sglang": "0.4.3"
+      }
+    }
+  },
+  {
+    "model_id": "moonshotai/Kimi-K2.6",
+    "model_name": "Kimi-K2.6",
+    "model_type": "MLLM",
+    "task_type": "image-text-to-text",
+    "context": 262144,
+    "model_size": 1058589420528,
+    "storage_size": 595263427116,
+    "data_type": "float32",
+    "description": "Kimi K2.6 is an open-source, native multimodal agentic model that advances practical capabilities in long-horizon coding, coding-driven design, proactive autonomous execution, and swarm-based task...",
+    "update_version": 1,
+    "deployment_settings": {
+      "engines": {
+        "vllm": "0.9.2",
+        "sglang": "0.4.3"
+      }
+    }
+  },
+  {
+    "model_id": "moonshotai/Kimi-K2.7-Code",
+    "model_name": "Kimi-K2.7-Code",
+    "model_type": "MLLM",
+    "task_type": "image-text-to-text",
+    "context": 262144,
+    "model_size": 1058589420528,
+    "storage_size": 595204651032,
+    "data_type": "bfloat16",
+    "description": "Kimi K2.7 Code is a coding-focused agentic model built upon Kimi K2.6.",
+    "update_version": 1,
+    "deployment_settings": {
+      "engines": {
+        "vllm": "0.9.2",
+        "sglang": "0.4.3"
+      }
+    }
+  },
+  {
+    "model_id": "moonshotai/Kimi-K3",
+    "model_name": "Kimi-K3",
+    "model_type": "MLLM",
+    "task_type": "image-text-to-text",
+    "context": 1048576,
+    "model_size": 2779931837184,
+    "storage_size": 1561018243668,
+    "data_type": "float32",
+    "description": "Kimi K3 is an open-weight, native multimodal agentic model and our most capable model to date.",
+    "update_version": 1,
+    "deployment_settings": {
+      "engines": {
+        "vllm": "0.9.2",
+        "sglang": "0.4.3"
+      }
+    }
+  },
+  {
+    "model_id": "MiniMaxAI/MiniMax-M2.5",
+    "model_name": "MiniMax-M2.5",
+    "model_type": "LLM",
+    "task_type": "text-generation",
+    "context": 196608,
+    "model_size": 228703644928,
+    "storage_size": 230136082747,
+    "data_type": "float32",
+    "description": "Today we're introducing our latest model, MiniMax-M2.5 .",
+    "update_version": 1,
+    "deployment_settings": {
+      "engines": {
+        "vllm": "0.9.2",
+        "sglang": "0.4.3"
+      }
+    }
+  },
+  {
+    "model_id": "MiniMaxAI/MiniMax-M2.7",
+    "model_name": "MiniMax-M2.7",
+    "model_type": "LLM",
+    "task_type": "text-generation",
+    "context": 204800,
+    "model_size": 228703644928,
+    "storage_size": 230142259486,
+    "data_type": "float32",
+    "description": "MiniMax-M2.7 is our first model deeply participating in its own evolution.",
+    "update_version": 1,
+    "deployment_settings": {
+      "engines": {
+        "vllm": "0.9.2",
+        "sglang": "0.4.3"
+      }
+    }
+  },
+  {
+    "model_id": "MiniMaxAI/MiniMax-M3",
+    "model_name": "MiniMax-M3",
+    "model_type": "MLLM",
+    "task_type": "image-text-to-text",
+    "context": 1048576,
+    "model_size": 427040140160,
+    "storage_size": 1708357470332,
+    "data_type": "bfloat16",
+    "description": "MiniMax-M3 is a native multimodal model with 1M context. It has 428B parameters and 23B activated parameters.",
+    "update_version": 1,
+    "deployment_settings": {
+      "engines": {
+        "vllm": "0.9.2",
+        "sglang": "0.4.3"
+      }
+    }
+  },
+  {
+    "model_id": "zai-org/GLM-5",
+    "model_name": "GLM-5",
+    "model_type": "LLM",
+    "task_type": "text-generation",
+    "context": 202752,
+    "model_size": 753864139008,
+    "storage_size": 1507756766358,
+    "data_type": "bfloat16",
+    "description": "Join our WeChat or Discord community. Check out the GLM-5 technical blog . Use GLM-5 API services on Z.ai API Platform. One click to GLM-5 .",
+    "update_version": 1,
+    "deployment_settings": {
+      "engines": {
+        "vllm": "0.9.2",
+        "sglang": "0.4.3"
+      }
+    }
+  },
+  {
+    "model_id": "zai-org/GLM-5.1",
+    "model_name": "GLM-5.1",
+    "model_type": "LLM",
+    "task_type": "text-generation",
+    "context": 202752,
+    "model_size": 753864139008,
+    "storage_size": 1507756036618,
+    "data_type": "bfloat16",
+    "description": "Join our WeChat or Discord community. Check out the GLM-5.1 blog and GLM-5 Technical report . Use GLM-5.1 API services on Z.ai API Platform.",
+    "update_version": 1,
+    "deployment_settings": {
+      "engines": {
+        "vllm": "0.9.2",
+        "sglang": "0.4.3"
+      }
+    }
+  },
+  {
+    "model_id": "zai-org/GLM-5.2",
+    "model_name": "GLM-5.2",
+    "model_type": "LLM",
+    "task_type": "text-generation",
+    "context": 1048576,
+    "model_size": 753329940480,
+    "storage_size": 1506687604850,
+    "data_type": "bfloat16",
+    "description": "Join our WeChat or Discord community. Check out the GLM-5.2 blog and GLM-5 Technical report . Use GLM-5.2 API services on Z.ai API Platform. Try GLM-5.2 here .",
+    "update_version": 1,
+    "deployment_settings": {
+      "engines": {
+        "vllm": "0.9.2",
+        "sglang": "0.4.3"
+      }
+    }
   }
 ]
