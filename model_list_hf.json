@@ -888,7 +888,7 @@
     "model_size": 1058589420528,
     "storage_size": 595246118966,
     "data_type": "float32",
-    "description": "0. Changelog - 2026.1.29: - The default system prompt might cause confusion to users and unexpected behaviours, so we remove it.",
+    "description": "Kimi K2.5 is a native multimodal agentic model for coding, visual understanding, and autonomous task execution.",
     "update_version": 1,
     "deployment_settings": {
       "engines": {
@@ -910,7 +910,7 @@
     "model_size": 1058589420528,
     "storage_size": 595263427116,
     "data_type": "float32",
-    "description": "Kimi K2.6 is an open-source, native multimodal agentic model that advances practical capabilities in long-horizon coding, coding-driven design, proactive autonomous execution, and swarm-based task...",
+    "description": "Kimi K2.6 is a multimodal agentic model for long-horizon coding, design, autonomous execution, and coordinated agent workflows.",
     "update_version": 1,
     "deployment_settings": {
       "engines": {
@@ -932,7 +932,7 @@
     "model_size": 1058589420528,
     "storage_size": 595204651032,
     "data_type": "bfloat16",
-    "description": "Kimi K2.7 Code is a coding-focused agentic model built upon Kimi K2.6.",
+    "description": "Kimi K2.7 Code is a coding-focused agentic model optimized for software engineering and long-horizon development tasks.",
     "update_version": 1,
     "deployment_settings": {
       "engines": {
@@ -954,7 +954,7 @@
     "model_size": 2779931837184,
     "storage_size": 1561018243668,
     "data_type": "float32",
-    "description": "Kimi K3 is an open-weight, native multimodal agentic model and our most capable model to date.",
+    "description": "Kimi K3 is an open-weight multimodal agentic model for complex reasoning, coding, and autonomous workflows with long context.",
     "update_version": 1,
     "deployment_settings": {
       "engines": {
@@ -976,7 +976,7 @@
     "model_size": 228703644928,
     "storage_size": 230136082747,
     "data_type": "float32",
-    "description": "Today we're introducing our latest model, MiniMax-M2.5 .",
+    "description": "MiniMax M2.5 is a general-purpose language model optimized for coding, reasoning, and agentic workflows.",
     "update_version": 1,
     "deployment_settings": {
       "engines": {
@@ -998,7 +998,7 @@
     "model_size": 228703644928,
     "storage_size": 230142259486,
     "data_type": "float32",
-    "description": "MiniMax-M2.7 is our first model deeply participating in its own evolution.",
+    "description": "MiniMax M2.7 is an advanced language model designed for coding, reasoning, and self-improving agentic tasks.",
     "update_version": 1,
     "deployment_settings": {
       "engines": {
@@ -1020,7 +1020,7 @@
     "model_size": 427040140160,
     "storage_size": 1708357470332,
     "data_type": "bfloat16",
-    "description": "MiniMax-M3 is a native multimodal model with 1M context. It has 428B parameters and 23B activated parameters.",
+    "description": "MiniMax M3 is a native multimodal model with a 1M-token context window for complex reasoning, coding, and visual tasks.",
     "update_version": 1,
     "deployment_settings": {
       "engines": {
@@ -1042,7 +1042,7 @@
     "model_size": 753864139008,
     "storage_size": 1507756766358,
     "data_type": "bfloat16",
-    "description": "Join our WeChat or Discord community. Check out the GLM-5 technical blog . Use GLM-5 API services on Z.ai API Platform. One click to GLM-5 .",
+    "description": "GLM-5 is a flagship language model for systems engineering, advanced coding, and long-horizon agentic tasks.",
     "update_version": 1,
     "deployment_settings": {
       "engines": {
@@ -1064,7 +1064,7 @@
     "model_size": 753864139008,
     "storage_size": 1507756036618,
     "data_type": "bfloat16",
-    "description": "Join our WeChat or Discord community. Check out the GLM-5.1 blog and GLM-5 Technical report . Use GLM-5.1 API services on Z.ai API Platform.",
+    "description": "GLM-5.1 is a flagship language model with enhanced coding and agentic engineering capabilities for complex long-horizon work.",
     "update_version": 1,
     "deployment_settings": {
       "engines": {
@@ -1086,7 +1086,7 @@
     "model_size": 753329940480,
     "storage_size": 1506687604850,
     "data_type": "bfloat16",
-    "description": "Join our WeChat or Discord community. Check out the GLM-5.2 blog and GLM-5 Technical report . Use GLM-5.2 API services on Z.ai API Platform. Try GLM-5.2 here .",
+    "description": "GLM-5.2 is a flagship language model with a 1M-token context window for advanced coding and long-horizon agentic tasks.",
     "update_version": 1,
     "deployment_settings": {
       "engines": {

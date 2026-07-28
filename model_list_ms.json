@@ -804,7 +804,7 @@
     "model_size": 170738182128,
     "storage_size": 595205012439,
     "data_type": "bfloat16",
-    "description": "Kimi K2.5 is an open-source native multimodal agentic model with strong coding, visual understanding, and autonomous task execution capabilities.",
+    "description": "Kimi K2.5 is a native multimodal agentic model for coding, visual understanding, and autonomous task execution.",
     "update_version": 1,
     "deployment_settings": {
       "engines": {
@@ -826,7 +826,7 @@
     "model_size": 170738182128,
     "storage_size": 595205004331,
     "data_type": "bfloat16",
-    "description": "Kimi K2.6 is an open-source, native multimodal agentic model that advances practical capabilities in long-horizon coding, coding-driven design, proactive autonomous execution, and swarm-based task...",
+    "description": "Kimi K2.6 is a multimodal agentic model for long-horizon coding, design, autonomous execution, and coordinated agent workflows.",
     "update_version": 1,
     "deployment_settings": {
       "engines": {
@@ -848,7 +848,7 @@
     "model_size": 170738182128,
     "storage_size": 595204989527,
     "data_type": "bfloat16",
-    "description": "Kimi K2.7 Code is a coding-focused agentic model built upon Kimi K2.6.",
+    "description": "Kimi K2.7 Code is a coding-focused agentic model optimized for software engineering and long-horizon development tasks.",
     "update_version": 1,
     "deployment_settings": {
       "engines": {
@@ -867,10 +867,10 @@
     "model_type": "MLLM",
     "task_type": "image-text-to-text",
     "context": 1048576,
-    "model_size": 1503647073024,
-    "storage_size": 0,
+    "model_size": 2779931837184,
+    "storage_size": 1561018243668,
     "data_type": "bfloat16",
-    "description": "Kimi K3 is an open-weight, native multimodal agentic model and our most capable model to date.",
+    "description": "Kimi K3 is an open-weight multimodal agentic model for complex reasoning, coding, and autonomous workflows with long context.",
     "update_version": 1,
     "deployment_settings": {
       "engines": {
@@ -892,7 +892,7 @@
     "model_size": 753864139008,
     "storage_size": 1507761512156,
     "data_type": "bfloat16",
-    "description": "We are launching GLM-5, targeting complex systems engineering and long-horizon agentic tasks.",
+    "description": "GLM-5 is a flagship language model for systems engineering, advanced coding, and long-horizon agentic tasks.",
     "update_version": 1,
     "deployment_settings": {
       "engines": {
@@ -914,7 +914,7 @@
     "model_size": 753864139008,
     "storage_size": 1507761512884,
     "data_type": "bfloat16",
-    "description": "GLM-5.1 is our next-generation flagship model for agentic engineering, with significantly stronger coding capabilities than its predecessor.",
+    "description": "GLM-5.1 is a flagship language model with enhanced coding and agentic engineering capabilities for complex long-horizon work.",
     "update_version": 1,
     "deployment_settings": {
       "engines": {
@@ -936,7 +936,7 @@
     "model_size": 753329940480,
     "storage_size": 1506693057046,
     "data_type": "bfloat16",
-    "description": "GLM-5.2 is a flagship language model with a 1M-token context window, designed for long-horizon tasks, advanced coding, and agentic engineering.",
+    "description": "GLM-5.2 is a flagship language model with a 1M-token context window for advanced coding and long-horizon agentic tasks.",
     "update_version": 1,
     "deployment_settings": {
       "engines": {
@@ -958,7 +958,7 @@
     "model_size": 228703644928,
     "storage_size": 230163277833,
     "data_type": "float32",
-    "description": "Today we're introducing our latest model, MiniMax-M2.5 .",
+    "description": "MiniMax M2.5 is a general-purpose language model optimized for coding, reasoning, and agentic workflows.",
     "update_version": 1,
     "deployment_settings": {
       "engines": {
@@ -980,7 +980,7 @@
     "model_size": 228703644928,
     "storage_size": 230169546588,
     "data_type": "bfloat16",
-    "description": "MiniMax-M2.7 is our first model deeply participating in its own evolution.",
+    "description": "MiniMax M2.7 is an advanced language model designed for coding, reasoning, and self-improving agentic tasks.",
     "update_version": 1,
     "deployment_settings": {
       "engines": {
@@ -1002,7 +1002,7 @@
     "model_size": 427040140160,
     "storage_size": 854200508996,
     "data_type": "bfloat16",
-    "description": "MiniMax-M3 is a native multimodal model with 1M context. It has 428B parameters and 23B activated parameters.",
+    "description": "MiniMax M3 is a native multimodal model with a 1M-token context window for complex reasoning, coding, and visual tasks.",
     "update_version": 1,
     "deployment_settings": {
       "engines": {
